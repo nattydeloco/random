@@ -1,2 +1,3 @@
 rdn/
 *.csv
+__pycache__/
